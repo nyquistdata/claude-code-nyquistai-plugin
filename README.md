@@ -16,7 +16,7 @@ This plugin allows Claude Code users to install everything — Skills + MCP serv
 - **510K Submission Strategy** — Develop comprehensive 510(k) submission strategy
 - **Device Risk Analysis** — Risk and hazard analysis for a medical device product code
 - **MAUDE Signal Detection** — Detect emerging signals and trends in FDA MAUDE adverse event reports
-
+- **PMA Submission Strategy** - Build an FDA PMA (Premarket Approval) submission strategy report
 
 More skills will be added.
 
