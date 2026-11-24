@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nyquistai": {
+      "type": "http",
+      "url": "https://mcp.nyquistai.com/agent/mcp"
+    }
+  }
+}
